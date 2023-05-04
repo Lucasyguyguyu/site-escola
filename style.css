@@ -1,0 +1,8 @@
+head{
+    cursor: pointer;
+    font-size: .9em;
+    font-family: menlo, monaco, consolas, "courier New", monospace;
+
+}
+
+body {background-color: #144272;}
